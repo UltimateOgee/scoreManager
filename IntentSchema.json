@@ -1,0 +1,35 @@
+{
+  "intents": [
+    {
+      "intent": "setNumOfPlayers",
+      "slots": [
+        {
+          "name": "Players",
+          "type": "num_of_players"
+        }
+      ]
+    },
+    {
+      "intent": "setScore",
+      "slots": [
+        {
+          "name": "Scores",
+          "type": "scores"
+        },
+        {
+          "name": "playerType",
+          "type": "type_of_player"
+        }
+      ]
+    },
+    {
+      "intent": "getNumberOfPlayers"
+    },
+    {
+      "intent": "getScore"
+    },
+    {
+      "intent": "end"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+num_of_players	two | three | four
+
+scores	one points | two points | three points | four points | five points | six points | seven points | eight points | nine points | ten points
+
+type_of_player	player one | player two | player three | player four

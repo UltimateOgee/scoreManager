@@ -1,0 +1,47 @@
+end end game
+end end the game
+end end the current game
+end end game now
+end end it
+end finished
+end stop
+end stop playing
+end stop it now
+end stop the madness
+end we have no need for you
+
+getNumberOfPlayers report current players
+getNumberOfPlayers report number of current players
+getNumberOfPlayers tell me how many players there are
+getNumberOfPlayers number of players
+getNumberOfPlayers how many players
+getNumberOfPlayers the amount of players
+getNumberOfPlayers how many players are in the game
+getNumberOfPlayers how many players are playing
+getNumberOfPlayers count players
+getNumberOfPlayers count number of players
+
+setNumOfPlayers {Players}
+
+setScore give {playerType} {Scores}
+setScore give {Scores} to {playerType}
+setScore set score for {playerType} to {Scores}
+setScore add {Scores} for {playerType}
+setScore add {Scores} to {playerType} score
+
+getScore give me the score
+getScore tell us the scores
+getScore report the score
+getScore report score
+getScore retrieve score
+getScore what is the score
+getScore scores
+getScore tell us the scores
+getScore what scores
+getScore what are the scores
+getScore grab scores
+getScore take scores
+getScore what scores are there
+getScore gather scores
+getScore obtain scores
+getScore aquire scores
